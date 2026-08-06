@@ -10,6 +10,12 @@
 </p>
 
 <p align="center">
+  <a href="[AQUÍ_TU_ENLACE_POWER_BI_SERVICE](https://app.powerbi.com/links/gwxkKyXe7i?ctid=ef18f8a5-d24a-4133-8b55-29106fa5b772&pbi_source=linkShare)">🌐 Live Dashboard</a> •
+  <a href="Project_Documentation.pdf">📄 Report</a> •
+  <a href="docs/data-dictionary.md">📖 Data Dictionary</a>
+</p>
+
+<p align="center">
 End-to-end Business Intelligence solution developed in <b>Power BI</b> for a global consumer electronics retailer.
 </p>
 
@@ -196,17 +202,38 @@ The dashboard was designed to support data-driven decision-making by answering q
 # 📂 Repository Structure
 
 ```
-Global-Electronics-Retailer-PowerBI
+Global-Electronics-Retailer-PowerBI/
 │
 ├── README.md
-├── Global_Electronics_Retailer.pbix
-├── report.pdf
+├── Global_Electronics_Retailer_PowerBI.pbix
+├── Project_Documentation.pdf
 │
-└── images
-    ├── sales-dashboard.png
-    ├── customer-dashboard.png
-    └── time-dashboard.png
+├── docs/
+│   └── data-dictionary.md
+│
+└── images/
+    ├── dashboard-preview.png
+    ├── sales-performance.png
+    ├── customer-behavior.png
+    └── temporal-analysis.png
 ```
+
+---
+
+# 🌐 Live Dashboard
+
+Explore the interactive dashboard published on Power BI Service:
+
+🔗 https://app.powerbi.com/links/gwxkKyXe7i?ctid=ef18f8a5-d24a-4133-8b55-29106fa5b772&pbi_source=linkShare
+
+---
+
+# 📚 Documentation
+
+Additional project documentation:
+
+- 📖 [Data Dictionary](docs/data-dictionary.md)
+- 📄 [Project Documentation](Project_Documentation.pdf)
 
 ---
 

@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <a href="[AQUÍ_TU_ENLACE_POWER_BI_SERVICE](https://app.powerbi.com/links/gwxkKyXe7i?ctid=ef18f8a5-d24a-4133-8b55-29106fa5b772&pbi_source=linkShare)">🌐 Live Dashboard</a> •
+  <a href="https://app.powerbi.com/links/gwxkKyXe7i?ctid=ef18f8a5-d24a-4133-8b55-29106fa5b772&pbi_source=linkShare">🌐 Live Dashboard</a> •
   <a href="Project_Documentation.pdf">📄 Report</a> •
   <a href="docs/data-dictionary.md">📖 Data Dictionary</a>
 </p>
